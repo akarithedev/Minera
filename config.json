@@ -1,0 +1,5 @@
+{
+  "default_prefix": "m!", 
+  "owner": ["764817986968092712", "833266884077289482"],
+  "mongoURI": "mongodb+srv://admin:aPa55word@cluster0.drhmc.mongodb.net/Minera"
+}
